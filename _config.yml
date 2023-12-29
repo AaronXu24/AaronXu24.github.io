@@ -160,11 +160,11 @@ yat:
 #   - about.md
 
 # Page default value
-# defaults:
-#   home:
-#     heading: "Your awesome heading"
-#     subheading: "Your awesome subheading"
-#     banner: "Your image url"
+ defaults:
+   home:
+     heading: "永远不要对还没做的事情说不可能。"
+     subheading: "这个世界上没有什么不可能。如果有，一定是你还没有努力够。"
+     banner: "/assets/images/banners/home2.jpeg"
 
 # Banner default settings
 # These banner settings are for global banner default, but you can also
