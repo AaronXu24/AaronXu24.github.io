@@ -5,13 +5,13 @@
 {% if include.params.lang %}
   {% assign lang = include.params.lang %}
 {% else %}
-  {% assign lang = lang | default: site.lang | default: "en" %}
+  {% assign lang = lang | default: site.lang | default: "zh" %}
 {% endif %}
 
 {% if include.params.speed %}
   {% assign speed = include.params.speed %}
 {% else %}
-  {% assign speed = 100 %}
+  {% assign speed = 160 %}
 {% endif %}
 
 {%- include functions.html func='get_article_words' -%}
