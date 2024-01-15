@@ -24,7 +24,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Aaron Xu 就是许安然啊
+title: 安然的小木屋
 email: aaron_xu24@qq.com 
 author: Aaron Xu
 
