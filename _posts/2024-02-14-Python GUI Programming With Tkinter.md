@@ -702,6 +702,7 @@ window.mainloop()
 drop_btn = tk.Button(frm_buttons,text="Drop",bg="blue",fg="yellow",command=lambda: [animation(gif_lbl,drop_page_w,current_frame=0), drop_name(name_lbl)])
 ```
 
+
 # 华摄氏度和摄氏度转换
 
 ```python
@@ -748,6 +749,7 @@ lbl_result.grid(row=0, column=2, padx=10)
 window.mainloop()
 ```
 ![](https://files.realpython.com/media/17_8_tk_temp_converter_win10.8e1ebad492b9.jpg)
+
 # 写一个文本编辑器
 
 ```python
