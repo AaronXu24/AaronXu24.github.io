@@ -808,6 +808,7 @@ window.mainloop()
 参考：[Displaying Gifs in Tkinter - Python](https://devhubcommunity.hashnode.dev/displaying-gifs-in-tkinter-python)
 
 - gif: a collection of frames(images) that are shown in a sequence, in a loop, thus creating an animation effect.
+
 ## s1 Import required packages
 
 ```python
