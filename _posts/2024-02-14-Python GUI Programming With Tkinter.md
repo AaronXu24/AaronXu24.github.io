@@ -803,6 +803,7 @@ window.mainloop()
 ![](https://files.realpython.com/media/17_9_tk_text_editor_win10.9182347f4b5d.jpg)
 
 
+
 # 如何用Tkinter显示Gif
 
 参考：[Displaying Gifs in Tkinter - Python](https://devhubcommunity.hashnode.dev/displaying-gifs-in-tkinter-python)
